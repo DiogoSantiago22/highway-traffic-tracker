@@ -1,0 +1,27 @@
+# IDEs e Editores
+.idea/
+.vscode/
+*.iml
+
+# Jupyter Notebook Checkpoints & Cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python & Ambientes Virtuais
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Vídeos e Ficheiros de Saída Pesados
+*.avi
+*.mp4
+*.mov
+*.mkv
+
+# Sistema Operativo e Temporários
+.DS_Store
+Thumbs.db
+*.log
