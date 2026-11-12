@@ -16,7 +16,6 @@ env/
 .venv/
 
 # Vídeos e Ficheiros de Saída Pesados
-*.avi
 *.mp4
 *.mov
 *.mkv
